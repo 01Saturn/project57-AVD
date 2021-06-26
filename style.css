@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    opacity: 0.83;
+    height: 600px;
+    width: 100%;
+    display: table;
+    text-align: center;
+}
+#funnithing{
+height: 100px;
+width: 100px;
+}
